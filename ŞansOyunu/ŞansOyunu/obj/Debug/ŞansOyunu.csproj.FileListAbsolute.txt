@@ -1,0 +1,10 @@
+C:\Users\MKA\Desktop\programlar\ŞansOyunu\ŞansOyunu\bin\Debug\ŞansOyunu.exe.config
+C:\Users\MKA\Desktop\programlar\ŞansOyunu\ŞansOyunu\bin\Debug\ŞansOyunu.exe
+C:\Users\MKA\Desktop\programlar\ŞansOyunu\ŞansOyunu\bin\Debug\ŞansOyunu.pdb
+C:\Users\MKA\Desktop\programlar\ŞansOyunu\ŞansOyunu\obj\Debug\ŞansOyunu.csprojAssemblyReference.cache
+C:\Users\MKA\Desktop\programlar\ŞansOyunu\ŞansOyunu\obj\Debug\ŞansOyunu.Form1.resources
+C:\Users\MKA\Desktop\programlar\ŞansOyunu\ŞansOyunu\obj\Debug\ŞansOyunu.Properties.Resources.resources
+C:\Users\MKA\Desktop\programlar\ŞansOyunu\ŞansOyunu\obj\Debug\ŞansOyunu.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\programlar\ŞansOyunu\ŞansOyunu\obj\Debug\ŞansOyunu.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\programlar\ŞansOyunu\ŞansOyunu\obj\Debug\ŞansOyunu.exe
+C:\Users\MKA\Desktop\programlar\ŞansOyunu\ŞansOyunu\obj\Debug\ŞansOyunu.pdb
